@@ -1,0 +1,37 @@
+-- Kalastaminen
+	['virveli'] = {
+		label = 'Virveli',
+		weight = 115,
+	},
+	['ahven'] = {
+		label = 'Ahven',
+		weight = 115,
+	},
+	['kuha'] = {
+		label = 'Kuha',
+		weight = 115,
+	},
+	['kiiski'] = {
+		label = 'Kiiski',
+		weight = 115,
+	},
+	['hauki'] = {
+		label = 'Hauki',
+		weight = 115,
+	},
+	['silakka'] = {
+		label = 'Silakka',
+		weight = 115,
+	},
+	['lohi'] = {
+		label = 'Lohi',
+		weight = 115,
+	},
+	['monni'] = {
+		label = 'Monni',
+		weight = 115,
+	},
+	['kultakala'] = {
+		label = 'Kultakala',
+		weight = 115,
+	},
